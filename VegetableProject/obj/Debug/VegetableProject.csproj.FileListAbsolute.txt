@@ -1,0 +1,16 @@
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\VegetableProject.exe.config
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\VegetableProject.exe
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\VegetableProject.pdb
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\EntityFramework.dll
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\EntityFramework.xml
+C:\Ivayla11d\VegetableProject\VegetableProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.csproj.AssemblyReference.cache
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.Form1.resources
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.Properties.Resources.resources
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.csproj.GenerateResource.cache
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.csproj.CoreCompileInputs.cache
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\Vegetabl.4D69C392.Up2Date
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.exe
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.pdb
+C:\Ivayla11d\VegetableProject\VegetableProject\obj\Debug\VegetableProject.Migrations.InitialMigration.resources
